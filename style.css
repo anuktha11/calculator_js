@@ -1,0 +1,23 @@
+.cal{
+     text-align: center;
+ margin-top: 50px;   
+
+}
+.calc{
+ width: 40%;
+ height:350px;
+ border: 2px black double;
+ margin-left: 30%;
+ box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+.inp{
+    border: 2px solid black;
+    margin-top: 25px;
+    width: 88%;
+    height: 16%;
+    text-align: right;
+    font-size: large;
+    font-weight: bold;
+}
